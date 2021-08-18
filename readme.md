@@ -1,6 +1,1 @@
-# GIT AND FITHUB COURCE
-
-Crash course 
-
-
-Hello, Hexlet!
+No code No pain
